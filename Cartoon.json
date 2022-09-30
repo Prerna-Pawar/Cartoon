@@ -57,43 +57,33 @@
     "CartoonName":"Tom And Jerry",
     "MainCharacter":"Tom,Jerry",
     "Creator":"William Hanna,Joseph Barbera",
-    "Status":"Ongoing"
-    
+    "Status":"Ongoing"    
   },
   {
     "id":9,
-    "CartoonName":"Ninja Hatodi",
-    "MainCharacter":"hathdi,shinzo,yeumiko",
-    "Creator":"Joseph Barbera",
-    "Status":"Ongoing"
-  },
-  
-  {
-    "id":10,
     "CartoonName":"Ninja Hattori",
     "MainCharacter":"Hattori",
     "Creator":"Fujiko Fujio",
     "Status":"Ongoing"    
  }, 
- 
  {
-    "id":11,
+    "id":10,
     "CartoonName":"bablu",
-    "MainCharacter":"Bablu,Dablu",
+    "MainCharacter":["Bablu,Dablu"],
     "Creator":"	Liu Fuyuan",
-    "Status":"ongoing"  }
+    "Status":"ongoing"
  },
  {
     "id":11,
     "CartoonName":"Motu Patlu",
-    "MainCharacter":"Motu Patlu",
+    "MainCharacter":["Motu,Patlu"],
     "Creator":"Niraj Vikram",
     "Status":"Ongoing"
  },
  {
     "id":12,
     "CartoonName":"Courage The Cowardly Dog",
-    "MainCharacter":"Muriel Bagge,Eustace Bagge",
+    "MainCharacter":["Muriel Bagge,Eustace Bagge"],
     "Creator":"	John Dilworth",
     "Status":"completed"
   },
@@ -113,27 +103,6 @@
   },
   {
     "id":15,
-    "CartoonName":"Oggy and the cockroaches",
-    "MainCharacter":["Oggy, jack"],
-    "Creator":"Jean-Yves Stephane Marcel Raimbaud ",
-    "Status":"ongoing"
-  },
-
-
-
-
-    "CartoonName":"Johnny Test",
-    "MainCharacter":["Johnny,Dukey"],
-    "Creator":"Scott Fellows",
-    "Status":"Completed"
-  },
-
-    "CartoonName":"Dizzy Dishes",
-    "MainCharacter":["	Margie Hines,Billy Murray"],
-    "Creator":"Max Fleischer",
-    "Status":"Ongoing"
-
-
     "CartoonName":"Pokemon",
     "MainCharacter":["Ash,Pikachu"],
     "Creator":"Satoshi Tajiri",
@@ -146,29 +115,43 @@
     "Creator":"Jean-Yves Stephane Marcel Raimbaud",
     "Status":"Finished"
   },
+{
+  "id":15,
+  "CartoonName":"Horrid Henry",
+    "MainCharacter":["Henry"],
+   "Creator":" Carl Thomas Anderson",
+   "Status":"Finished"
+  },
   {
     "id":17,
     "CartoonName":"Johnny Test",
     "MainCharacter":["Johnny,Dukey"],
     "Creator":"Scott Fellows",
     "Status":"Completed"
-  },
 
+  },
  {
     "id":18,
-    "CartoonName":"Super stricker",
-    "MainCharacter":["shakes"],
-    "Creator":"Jurgen Ulf Gutentag",
+    "CartoonName":"Doraemon",
+    "MainCharacter":["Doraemon,Nobita"],
+    "Creator":"fujiko fujiyo",
+    "Status":"ongoing"
+  },
+   {
+    "id":18,
+    "CartoonName":"Hagemaru",
+    "MainCharacter":["Hagemaru"],
+    "Creator":"Shinbo Naruma",
     "Status":"Completed"
- },
- {
-    "id":19,
-    "CartoonName":"Oggy and Cockroaches",
-    "MainCharacter":["Oggy"],
-    "Creator":"Jean-Yves Stephane Marcel Raimbaud",
-    "Status":"Completed"
- }
+  },
 
+{
+    "id":19,
+    "CartoonName":"Selfie with Bajrangi",
+    "MainCharacter":["Ankush,Bajrangi"],
+    "Creator":"Dheeraj Berry",
+    "Status":"Completed"
+  },
 
 
 ]
